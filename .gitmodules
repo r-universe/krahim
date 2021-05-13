@@ -8,10 +8,8 @@
 	url = https://github.com/krahim/fftwtools
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "multitaper"]
 	path = multitaper
 	url = https://github.com/krahim/multitaper
 	shallow = true
 	registered = true
-	oncran = true
