@@ -2,9 +2,5 @@
   {
     "package": "fftwtools",
     "oncran": true
-  },
-  {
-    "package": "multitaper",
-    "oncran": true
   }
 ]
