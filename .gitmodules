@@ -3,13 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "fftwtools"]
-	path = fftwtools
-	url = https://github.com/krahim/fftwtools
-	shallow = true
-	registered = true
 [submodule "multitaper"]
 	path = multitaper
 	url = https://github.com/krahim/multitaper
+	shallow = true
+	registered = true
+[submodule "fftwtools"]
+	path = fftwtools
+	url = https://github.com/krahim/fftwtools
 	shallow = true
 	registered = true
